@@ -4,7 +4,7 @@ DBIx::Iterator - Query your database using iterators and save memory
 
 # VERSION
 
-version 0.0.1
+version 0.0.2
 
 # SYNOPSIS
 

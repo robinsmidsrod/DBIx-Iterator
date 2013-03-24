@@ -5,7 +5,7 @@ use warnings;
 use Test::More;
 
 use DBI;
-use SQL::Statement; # to make our 'SELECT 1 AS num' query work
+use SQL::Statement 1.401; # to make our 'SELECT 1 AS num' query work
 
 use lib 'lib';
 use DBIx::Iterator;
